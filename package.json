@@ -1,0 +1,27 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "Creation of a Rest API that uses HTTP verbs in order to realize CRUD operations.",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paula-gomes/Rest_Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paula-gomes/Rest_Api/issues"
+  },
+  "homepage": "https://github.com/paula-gomes/Rest_Api#readme"
+}
