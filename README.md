@@ -20,7 +20,12 @@ By doing that you will clone the repository and install its dependencies
 
 # Get it tested
 
---- ROUTES ---
+### Suggested Tool
+
+* Insomnia Rest : provides a great comunication with the API
+##### Link - https://insomnia.rest/download/
+
+### ROUTES 
 
 * GET: To just acces the API  -> http://localhost:3000/tarefas
 
