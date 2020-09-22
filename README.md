@@ -16,7 +16,7 @@ By doing that you will clone the repository and install its dependencies
 
 # Features
 
-* server.js: realizes all Crud operations by apllying HTTP verbs on the application (GET,PUT,UPDATE,DELETE)
+* server.js: realizes all Crud operations by applying HTTP verbs on the application (GET,PUT,UPDATE,DELETE)
 
 # Get it tested
 
